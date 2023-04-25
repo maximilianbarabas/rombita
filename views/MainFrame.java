@@ -7,6 +7,7 @@
 * Github: https://github.com/maximilianbarabas
 * Licenc: GNU GPL
 */
+
 package views;
 
 import java.awt.GridLayout;
